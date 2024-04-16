@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "publicRepo",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "publicRepo_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-publicRepo_main-Debug-a22b92893f28a3183f64.json",
+					"name" : "publicRepo_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "publicRepo_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-publicRepo_test-Debug-32eb1b9e801b0a7f7693.json",
+					"name" : "publicRepo_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/abbysweet/Documents/CS/Mod4/other/publicRepo/cmake-build-debug",
+		"source" : "/Users/abbysweet/Documents/CS/Mod4/other/publicRepo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

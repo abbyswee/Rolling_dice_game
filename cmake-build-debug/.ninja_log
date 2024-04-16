@@ -1,0 +1,6 @@
+# ninja log v5
+2	1324	1713298784816194958	CMakeFiles/publicRepo_main.dir/player_1.cpp.o	2d8b7763dbf324bb
+2	1329	1713298784816165261	CMakeFiles/publicRepo_main.dir/player_2.cpp.o	83d5c70c1fa6eb0f
+3	1387	1713298784882729805	CMakeFiles/publicRepo_main.dir/rolling.cpp.o	39c895920b8ecf00
+1	1485	1713298784981908894	CMakeFiles/publicRepo_main.dir/main.cpp.o	fba3e30f11d66c73
+1485	1560	1713298785062569890	publicRepo_main	76208c258971e69
